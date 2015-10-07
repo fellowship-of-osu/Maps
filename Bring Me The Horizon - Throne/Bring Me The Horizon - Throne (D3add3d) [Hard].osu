@@ -1,0 +1,66 @@
+osu file format v14
+
+[General]
+AudioFilename: Bring Me The Horizon - Throne.mp3
+AudioLeadIn: 0
+PreviewTime: -1
+Countdown: 1
+SampleSet: Normal
+StackLeniency: 0.7
+Mode: 0
+LetterboxInBreaks: 1
+WidescreenStoryboard: 0
+
+[Editor]
+DistanceSpacing: 1
+BeatDivisor: 8
+GridSize: 16
+TimelineZoom: 1
+
+[Metadata]
+Title:Throne
+TitleUnicode:Throne
+Artist:Bring Me The Horizon
+ArtistUnicode:Bring Me The Horizon
+Creator:D3add3d
+Version:Hard
+Source:
+Tags:bmth this is the spirit
+BeatmapID:0
+BeatmapSetID:-1
+
+[Difficulty]
+HPDrainRate:6
+CircleSize:5
+OverallDifficulty:6
+ApproachRate:8
+SliderMultiplier:1.6
+SliderTickRate:1
+
+[Events]
+//Background and Video events
+//Break Periods
+//Storyboard Layer 0 (Background)
+//Storyboard Layer 1 (Fail)
+//Storyboard Layer 2 (Pass)
+//Storyboard Layer 3 (Foreground)
+//Storyboard Sound Samples
+
+[TimingPoints]
+302.046144621351,833.333333333333,4,1,0,100,1,0
+
+
+[HitObjects]
+128,176,13635,6,0,P|192:224|208:160,1,160
+224,112,14885,2,0,P|304:96|352:160,1,160
+368,240,16031,1,0,0:0:0:0:
+304,288,16239,1,0,0:0:0:0:
+224,256,16447,1,0,0:0:0:0:
+192,112,16968,2,0,B|256:192|256:192|320:96,1,200
+304,96,18218,2,0,B|256:32|256:32|208:96,1,160
+208,176,19468,1,0,0:0:0:0:
+272,96,19677,1,0,0:0:0:0:
+272,192,19885,1,0,0:0:0:0:
+288,288,20302,2,0,P|192:272|224:208,1,200
+240,208,21552,2,0,P|320:192|272:128,1,180
+208,192,22802,2,0,L|176:160,2,40
