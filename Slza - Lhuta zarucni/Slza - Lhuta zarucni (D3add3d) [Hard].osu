@@ -1,0 +1,76 @@
+osu file format v14
+
+[General]
+AudioFilename: Slza - Lhuta zarucni.mp3
+AudioLeadIn: 0
+PreviewTime: 44481
+Countdown: 0
+SampleSet: Normal
+StackLeniency: 0.7
+Mode: 0
+LetterboxInBreaks: 0
+WidescreenStoryboard: 1
+
+[Editor]
+DistanceSpacing: 1
+BeatDivisor: 8
+GridSize: 16
+TimelineZoom: 1
+
+[Metadata]
+Title:Lhuta zarucni
+TitleUnicode:Lhůta záruční
+Artist:Slza
+ArtistUnicode:Slza
+Creator:D3add3d
+Version:Hard
+Source:
+Tags:hoggy slza czech lhuta zarucni
+BeatmapID:0
+BeatmapSetID:-1
+
+[Difficulty]
+HPDrainRate:6
+CircleSize:6
+OverallDifficulty:6
+ApproachRate:8
+SliderMultiplier:1.7
+SliderTickRate:1
+
+[Events]
+//Background and Video events
+//Break Periods
+2,14335,42395
+//Storyboard Layer 0 (Background)
+//Storyboard Layer 1 (Fail)
+//Storyboard Layer 2 (Pass)
+//Storyboard Layer 3 (Foreground)
+//Storyboard Sound Samples
+
+[TimingPoints]
+3956.35069281431,508.949020273136,4,1,0,100,1,0
+
+
+[HitObjects]
+256,192,3956,1,0,0:0:0:0:
+352,160,4465,1,0,0:0:0:0:
+336,112,4974,2,0,L|256:80,2,85
+176,80,5992,1,0,0:0:0:0:
+192,240,6501,1,0,0:0:0:0:
+368,240,7010,1,0,0:0:0:0:
+368,144,7518,2,0,P|320:128|320:160,3,85
+208,160,8536,1,0,0:0:0:0:
+288,64,9045,1,0,0:0:0:0:
+432,288,9300,1,0,0:0:0:0:
+336,288,9554,1,0,0:0:0:0:
+208,272,9809,1,0,0:0:0:0:
+288,176,10063,1,0,0:0:0:0:
+192,208,10318,2,0,L|240:288,1,85
+256,192,13117,12,0,14135,0:0:0:0:
+256,192,43145,12,0,43972,0:0:0:0:
+256,192,44672,5,0,0:0:0:0:
+320,192,44926,2,0,P|288:112|224:144,1,170
+208,192,45690,2,0,P|112:208|112:144,1,170
+144,144,46453,1,0,0:0:0:0:
+192,128,46708,1,0,0:0:0:0:
+352,128,47217,1,0,0:0:0:0:
