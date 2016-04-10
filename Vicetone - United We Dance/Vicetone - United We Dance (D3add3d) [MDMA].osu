@@ -1,0 +1,71 @@
+osu file format v14
+
+[General]
+AudioFilename: audio.mp3
+AudioLeadIn: 0
+PreviewTime: -1
+Countdown: 3
+SampleSet: Normal
+StackLeniency: 0.7
+Mode: 0
+LetterboxInBreaks: 0
+WidescreenStoryboard: 1
+
+[Editor]
+DistanceSpacing: 1
+BeatDivisor: 4
+GridSize: 16
+TimelineZoom: 1
+
+[Metadata]
+Title:United We Dance
+TitleUnicode:United We Dance
+Artist:Vicetone
+ArtistUnicode:Vicetone
+Creator:D3add3d
+Version:MDMA
+Source:Tomorrowland
+Tags:vicetone united we dance tommorow land tomorrowland edm house progressive
+BeatmapID:0
+BeatmapSetID:-1
+
+[Difficulty]
+HPDrainRate:6
+CircleSize:6
+OverallDifficulty:5
+ApproachRate:8
+SliderMultiplier:1.7
+SliderTickRate:1
+
+[Events]
+//Background and Video events
+//Break Periods
+//Storyboard Layer 0 (Background)
+//Storyboard Layer 1 (Fail)
+//Storyboard Layer 2 (Pass)
+//Storyboard Layer 3 (Foreground)
+//Storyboard Sound Samples
+
+[TimingPoints]
+40.162767473312,477.745043395175,4,1,0,100,1,0
+
+
+[HitObjects]
+128,144,2070,5,0,2:0:0:0:
+352,224,2547,2,0,L|352:112,1,85,0|0,2:0|2:0,2:0:0:0:
+304,96,3025,1,0,2:0:0:0:
+192,48,3384,1,0,2:0:0:0:
+368,192,3742,1,0,2:0:0:0:
+256,192,4100,1,0,2:0:0:0:
+304,192,4459,1,0,2:0:0:0:
+304,128,4817,1,0,2:0:0:0:
+304,224,5175,1,0,2:0:0:0:
+240,192,5414,1,0,2:0:0:0:
+304,128,5653,1,0,2:0:0:0:
+320,240,5892,1,0,2:0:0:0:
+400,224,6370,2,0,L|496:224,1,85,0|0,2:0|2:0,2:0:0:0:
+464,160,6848,1,0,2:0:0:0:
+416,160,7206,1,0,2:0:0:0:
+368,160,7564,1,0,2:0:0:0:
+416,96,7922,1,0,2:0:0:0:
+320,96,8281,1,0,2:0:0:0:
